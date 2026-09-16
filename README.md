@@ -10,12 +10,16 @@ This project aggregates, cleans, and integrates large public health and environm
 * **Spatial Visualization:** Constructed bivariate choropleth mapping configurations using `ggplot2` and `sf` spatial boundaries.
 
 ## Key Visualizations
+*Note: Click the links below to open the full project data plots.*
 
-### 1. Regional Comparison Map
-![Comparing Nitrate Levels and Cancer Rates](Comparing_Nitrate_Levels_and_Cancer_Rates.png)
+### 1. Regional Public Health Map
+* [View Map: Comparing Nitrate Levels in Water and Cancer Incidence Rates (PDF)](output/nitrate_cancer_map.pdf)
 
-### 2. Statistical Correlation
-![Association Between Nitrates and Cancer](Association_Between_Nitrates_and_Colorectal_Cancer.png)
+### 2. Statistical Correlation Plot
+* [View Scatter Plot: Association Between Nitrates and Colorectal Cancer (PDF)](output/nitrate_cancer_association.pdf)
+
+### 3. Regional Exposures Analysis
+* [View Distribution Plot: Minnesota Nitrate Concentrations by Water Source (PDF)](output/nitrate_concentration.pdf)
 
 ## Technologies Used
 * **Language:** R
